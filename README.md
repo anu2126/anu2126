@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anushka Sharma</h1>
+<h1 align="center">Hi 👋, I'm Anushka </h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anu2126&label=Profile%20views&color=0e75b6&style=flat" alt="anu2126" /> </p>
@@ -7,7 +7,6 @@
 
 - 🔭 I’m currently working on **open source contributions**
 
-- 🌱 I’m currently learning **ml and azure**
 
 - 👯 I’m looking to collaborate on **projects**
 
